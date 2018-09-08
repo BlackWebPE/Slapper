@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace slapper;
+namespace npc;
 
 use pocketmine\entity\DataPropertyManager;
 use pocketmine\entity\Entity;
